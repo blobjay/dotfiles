@@ -7,7 +7,7 @@
 #end
 
 ## Source from conf.d before our fish config
-source /usr/share/cachyos-fish-config/conf.d/done.fish ~/.config/fish/conf.d/done.fish
+source ~/.config/fish/conf.d/done.fish
 
 
 ## Set values
