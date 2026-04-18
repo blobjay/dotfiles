@@ -8,5 +8,5 @@ set $right right
 
 set $term kitty
 set $menu wmenu-run
-set $screenshot grim
+set $shot grim
 set $ocr exec fish -c 'QT_QPA_PLATFORM=xcb meikipop'

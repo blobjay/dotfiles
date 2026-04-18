@@ -3,8 +3,8 @@ bindsym $mod+q kill
 bindsym $mod+l reload
 bindsym $mod+Shift+e exec swaymsg exit
 
-bindsym Print exec $screenshot
-bindsym $mod+p exec $screenshot
+bindsym Print exec $shot
+bindsym $mod+p exec $shot
 bindsym $mod+d exec $menu
 bindsym $mod+Return exec $term
 bindsym $mod+j exec $ocr
