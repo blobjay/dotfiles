@@ -1,0 +1,12 @@
+# ------  variables
+# mod1 is Alt, mod4 is Windows
+set $mod Mod4
+set $left left
+set $down down
+set $up up
+set $right right
+
+set $term kitty
+set $menu wmenu-run
+set $screenshot grim
+set $ocr exec fish -c 'QT_QPA_PLATFORM=xcb meikipop'

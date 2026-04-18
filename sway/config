@@ -1,0 +1,5 @@
+include ~/.config/sway/config.d/variables
+include ~/.config/sway/config.d/autostarts
+include ~/.config/sway/config.d/outputs
+include ~/.config/sway/config.d/keybinds
+include ~/.config/sway/config.d/visuals

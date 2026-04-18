@@ -1,0 +1,6 @@
+# ------  output
+set $outputL HDMI-A-1
+set $outputR DP-1
+
+output $outputL pos 0 0
+output $outputR pos 1920 0

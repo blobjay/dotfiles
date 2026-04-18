@@ -1,0 +1,18 @@
+# --  wallpapers
+
+output $outputL bg ~/media/wallpapers/gruvbox-cityscape-pixel.png fit #000000
+output $outputR bg ~/media/wallpapers/waneella-food-cityscape-pixel.png fit #000000
+
+# --  borders
+
+default_border pixel 
+gaps inner 10
+gaps outer 6
+
+set $active #d79921
+set $inactive #504945
+
+client.focused $active $active $active $active 
+client.unfocused $inactive $inactive $inactive $inactive 
+client.background  $inactive $inactive $inactive $inactive 
+client.focused_inactive   $inactive $inactive $inactive $inactive 
